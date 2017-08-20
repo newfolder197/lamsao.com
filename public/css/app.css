@@ -1,0 +1,74 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	margin: auto;
+	width: 1170px;
+}
+.col-12,.col-11,.col-10,.col-9,.col-8,.col-7,.col-6,.col-5,.col-4,.col-3,.col-2,.col-1{
+	float: left;
+
+}
+.col-12{
+	width: 100%;
+	box-sizing: border-box;
+}
+.col-11{
+	width: 91.666667%;
+	box-sizing: border-box;
+}
+.col-10{
+	width: 83.333333%;
+	box-sizing: border-box;
+}
+.col-9{
+	width: 75%;
+	box-sizing: border-box;
+}
+.col-8{
+	width: 66.666667%;
+	box-sizing: border-box;
+}
+.col-7{
+	width: 58.333333%;
+	box-sizing: border-box;
+}
+.col-6{
+	width: 50%;
+	box-sizing: border-box;
+}
+.col-5{
+	width: 41.666667%;
+	box-sizing: border-box;
+}
+.col-4{
+	width: 33.333333%;
+	box-sizing: border-box;
+}
+.col-3{
+	width: 25%;
+	box-sizing: border-box;
+}
+.col-2{
+	width: 16.666667%;
+	box-sizing: border-box;
+}
+.col-1{
+	width: 8.333333%;
+	box-sizing: border-box;
+}
+.text-center{
+	text-align: center;
+}
+.bg-primary{
+	background: #2CA9E1;
+}
+.relative{
+	position: relative;
+}
+@import "header.css";
+@import "nav.css";
+@import "footer.css";
+@import "main.css";
